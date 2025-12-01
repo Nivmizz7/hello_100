@@ -1,4 +1,4 @@
-# Hello, I am Niv. in 100 languages
+# "Hello, I am Niv." in 100 languages
 
 All samples print exactly `Hello, I am Niv.`. Commands assume the required toolchain is installed and available on `PATH`. Paths are workspace‑relative.
 
